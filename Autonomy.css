@@ -1,0 +1,12 @@
+.menu{
+    list-style: none;
+    float: right;
+    margin-right: 30px;
+}
+
+.menu li{
+    display: inline;
+    margin-right: 40px;
+}
+
+
